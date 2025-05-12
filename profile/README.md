@@ -1,71 +1,76 @@
-# 🌬️ Arvi | Ar da Vida
+# 🌬️ Arvi – "Ar da Vida"
 
-Bem-vindo à **Arvi**, uma healthtech brasileira com a missão de transformar a relação das pessoas com a saúde, começando pelo cuidado com os medicamentos.
+Somos uma healthtech brasileira que nasceu com um propósito claro:  
+**simplificar, humanizar e potencializar o cuidado com a saúde através da tecnologia.**
 
----
-
-## 🚀 Sobre a Arvi
-
-A **Arvi** nasceu para resolver problemas reais da saúde cotidiana: esquecimentos, falta de organização, prescrições perdidas e exames espalhados em diferentes apps, clínicas e papéis.
-
-Nós acreditamos que a saúde pode ser simples, empática e inteligente — e estamos construindo uma plataforma que integra **medicação, exames, perfis familiares e inteligência artificial** para ajudar todos a cuidarem melhor de si mesmos e de quem amam.
+Estamos construindo um ecossistema digital que conecta dados, pessoas e inteligência artificial para transformar a forma como indivíduos e famílias cuidam da saúde no Brasil.
 
 ---
 
-## 🧠 Projetos em Destaque
+## 🧭 Nossa Missão
 
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| **arvi-site** | Site oficial da Arvi com informações, blog e lista de espera. | [🔗 GitHub](https://github.com/arvi-health/arvi-site) |
-| **arvi-app** | Aplicativo oficial de saúde com gestão de medicamentos, notificações e perfis familiares. | 🔐 Privado (em desenvolvimento) |
-| **arvi-wpp-agent** | Agente de WhatsApp para validação e engajamento de usuários via AI. | [🔗 GitHub](https://github.com/arvi-health/arvi-wpp-agent) |
-| **arvi-api** | Backend em Supabase e funções RPC que conectam todo o ecossistema da Arvi. | 🔐 Privado |
-| **arvi-data** | Base de dados de medicamentos, bulas e categorias, estruturada com fontes oficiais. | [🔗 GitHub](https://github.com/arvi-health/arvi-data) |
+Empoderar pessoas a assumirem o protagonismo do seu bem-estar, com ferramentas acessíveis, intuitivas e eficazes para gerenciar sua saúde no dia a dia.
 
 ---
 
-## 🛠️ Tecnologias & Stack
+## 👁️ Nossa Visão
 
-A Arvi utiliza uma stack moderna e escalável:
-
-- **Frontend**: [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/), [Heroicons](https://heroicons.com/)
-- **Backend**: [Supabase](https://supabase.com/), [PostgreSQL](https://www.postgresql.org/)
-- **Design System**: [HeroUI](https://heroui.dev/)
-- **Infraestrutura**: [Vercel](https://vercel.com/), [Railway](https://railway.app/)
-- **AI & Automatizações**: [OpenAI](https://openai.com/), [ElevenLabs](https://elevenlabs.io/), [Leonardo AI](https://leonardo.ai), [Kling AI](https://kling.ai), [n8n](https://n8n.io)
+Ser a plataforma de referência em **gestão pessoal de saúde** na América Latina, integrando medicamentos, exames, prescrições, perfis familiares e inteligência artificial de forma fluida, ética e segura.
 
 ---
 
-## 🌱 Cultura e Valores
+## 🩷 Nossos Valores
 
-- **Saúde centrada no ser humano**  
-- **Tecnologia como aliada, não barreira**  
-- **Privacidade, ética e transparência acima de tudo**  
-- **Construção colaborativa com nossa comunidade**  
-
----
-
-## 🤝 Contribuindo
-
-Quer contribuir com nossos projetos?  
-Confira nossos repositórios públicos, leia as instruções no `CONTRIBUTING.md` de cada projeto e abra uma issue ou pull request.  
-Toda ajuda é bem-vinda!
+- **Humanidade em primeiro lugar**  
+- **Tecnologia a serviço da vida**  
+- **Privacidade e segurança como princípios inegociáveis**  
+- **Inovação com responsabilidade**  
+- **Transparência em tudo o que fazemos**
 
 ---
 
-## 🧾 Licença
+## 🧠 O que estamos desenvolvendo
 
-Todos os projetos públicos da Arvi seguem a licença [MIT](https://opensource.org/licenses/MIT), exceto onde explicitado de outra forma.
+> Estamos construindo um novo padrão para a gestão de saúde pessoal.  
+> A Arvi será o seu **centro de comando da saúde**, combinando:
+
+- Organização inteligente de medicamentos
+- Lembretes automatizados e personalizados
+- Gestão de múltiplos perfis (filhos, pais, dependentes)
+- Armazenamento seguro de receitas e exames
+- Agendamento de exames e consultas
+- Compra de medicamentos
+- Assistência preditiva via IA
+
+Tudo isso em um único lugar. Com uma experiência simples, moderna e confiável.
 
 ---
 
-## 📫 Contato
+## 🛠️ Base tecnológica
 
-- 🌐 Site: [www.arvisaude.com.br](https://www.arvisaude.com.br)
-- 📧 Email: contato@arvisaude.com.br
+Construímos com uma stack moderna, segura e escalável:
+
+- **Frontend:** Next.js, TailwindCSS, HeroUI, React Native + Expo  
+- **Backend:** Node.js com TypeScript, Supabase (PostgreSQL, Edge Functions, RPC, Auth, Storage, RLS)  
+- **Infraestrutura:** Vercel, WhatsApp Cloud API 
+- **AI:** Open Router, Google Cloud Vision, Whisper API
+
+---
+
+## 🔐 Repositórios
+
+Nossa organização contém repositórios públicos e privados.  
+Projetos em fase inicial estão em desenvolvimento restrito.  
+Em breve abriremos parte do ecossistema à colaboração com a comunidade.
+
+---
+
+## 📍 Onde nos encontrar
+
+- 🌐 Site oficial: [www.arvisaude.com.br](https://www.arvisaude.com.br)  
+- 📧 Email: contato@arvisaude.com.br  
 - 📱 Instagram: [@arvisaude](https://instagram.com/arvisaude)
 
 ---
 
-Com carinho,  
-**Equipe Arvi** – Porque respirar saúde é viver melhor. 🌬️
+**Arvi** – "ar da vida", plataforma de tecnologia a serviço da saúde.
